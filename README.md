@@ -20,7 +20,7 @@ I have strong attention to details and skillfully organize my working time. I ha
 * Languages: Java (Automation tests)
 * Frameworks: Selenium WebDriver, JUnit
 * Operating system: Windows
-* Others: HTML,CSS, REST services, Web Applications, XPATH, CSS Selectors,
+* Others: HTML,CSS, REST services, Web Applications, XPATH, CSS Selectors
 
 ## Courses 
 
@@ -54,7 +54,11 @@ I have strong attention to details and skillfully organize my working time. I ha
 
 ## My example bug reports
 
-* [Bug reports for the website www.automationpractice]( https://drive.google.com/file/d/1cOdsKuapQKTznCqPI9st-x-XaKunRBJV/view?usp=sharing)
+* [Bug reports for the website www.automationpractice.com]( https://drive.google.com/file/d/1cOdsKuapQKTznCqPI9st-x-XaKunRBJV/view?usp=sharing)
+
+## My example requests in Postman
+
+* [Testing reqres.in API](https://drive.google.com/file/d/1UC0SAax3Ttx2wfRAOTlCZYbh3MzVGT09/view?usp=sharing)
 
 ## My project
 
