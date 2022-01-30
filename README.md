@@ -25,6 +25,9 @@ I have strong attention to details and skillfully organize my working time. I ha
 ## Courses 
 
 * [Software tester with an introduction to automation]( https://softie.pl/kurs-tester-oprogramowania/)
+
+## Certificates
+
 * Knowledge of ISTQB Foundation Level
 
 ## Technical Books 
