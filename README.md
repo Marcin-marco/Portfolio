@@ -35,7 +35,7 @@ I have strong attention to details and skillfully organize my working time. I ha
 
 * [Tester oprogramowania - wsparcie na starcie]( https://www.facebook.com/groups/testeroprogramowania)
 * [Testowanie oprogramowania]( https://www.facebook.com/groups/TestowanieOprogramowania)
-* [WarszawQA] (https://www.facebook.com/WarszawQA)
+* [WarszawQA](https://www.facebook.com/WarszawQA)
 * [Niebezpiecznik]( https://www.facebook.com/niebezpiecznik)
 
 ## Blogs read
